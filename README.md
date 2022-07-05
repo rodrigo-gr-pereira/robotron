@@ -1,2 +1,1 @@
-# robotron
-robo construi em js durante o curso da lalura
+# robotron-2000
